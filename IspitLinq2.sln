@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IspitLinq2", "IspitLinq2.csproj", "{80797FC6-5D60-495F-9753-35B6859ACA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model2", "Model2\Model2.csproj", "{B7C2C9E8-5D3D-4748-A3D7-C824C2A32861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80797FC6-5D60-495F-9753-35B6859ACA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80797FC6-5D60-495F-9753-35B6859ACA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80797FC6-5D60-495F-9753-35B6859ACA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80797FC6-5D60-495F-9753-35B6859ACA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C2C9E8-5D3D-4748-A3D7-C824C2A32861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C2C9E8-5D3D-4748-A3D7-C824C2A32861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C2C9E8-5D3D-4748-A3D7-C824C2A32861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C2C9E8-5D3D-4748-A3D7-C824C2A32861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FB3241-2C3F-4F96-A80D-C0CA466C0225}
+	EndGlobalSection
+EndGlobal
